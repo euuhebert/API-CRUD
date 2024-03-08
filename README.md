@@ -80,9 +80,6 @@ Rotas utilizadas pela API para executar métodos HTTP (POST, GET, PUT, DELETE) n
 |```PUT``` /Contato/{id}|Atualiza um contato.|
 |```DELETE``` /Contato/{id}|Exclui um contato.|
 
-Claro, aqui estão os códigos dentro da seção de explicação detalhada:
-
-```csharp
 ## Explicando o código mais a fundo
 
 ### Classe `AgendaContext`

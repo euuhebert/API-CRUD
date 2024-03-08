@@ -119,7 +119,6 @@ namespace ModuloAPI.Entities
     }
 }
 ```
-Claro! Vou explicar cada parte da classe `ContatoController` em detalhes:
 
 ```csharp
 using Microsoft.AspNetCore.Mvc;

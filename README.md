@@ -120,6 +120,7 @@ namespace ModuloAPI.Entities
 }
 ```
 
+### Classe `ContatoController`
 ```csharp
 using Microsoft.AspNetCore.Mvc;
 using ModuloAPI.Context;
